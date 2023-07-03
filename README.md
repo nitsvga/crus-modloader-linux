@@ -10,7 +10,7 @@
 4. Start the game, if you now have a `mods` folder under `%appdata%\Godot\app_userdata\Cruelty Squad\` it worked
 
 ## Linux instructions
-1. Download the [linux release]()
+1. Download the [linux release](https://github.com/nitsvga/crus-modloader-linux/releases/download/v0.2.2-beta-linux/crus-modloader-v0.2.2b-linux.zip)
 2. Extract the contents of the zip into your Cruelty Squad game folder (the one Steam installed to, not the one in step 5)
 3. Give `install_modloader.sh` execution permissions by launching a terminal in the folder and doing `chmod +x install_modloader.sh`
 4. Now on the same terminal run `./install_modloader.sh`
